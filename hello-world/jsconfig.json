@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        // Specifies the module system, when generating module code.
+        "module": "commonjs",
+        // Specifies which default library (lib.d.ts) to use.
+        "target": "es6",
+    },
+    "include": [
+        "./*",
+    ]
+}
