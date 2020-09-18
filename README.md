@@ -8,11 +8,13 @@ A library with examples and exercises in JavaScript.
 
 - [MDN web docs - Guide](https://developer.mozilla.org/de/docs/Web/JavaScript/Guide)
 
+- [Eine Wiedereinfuehrung in JavaScript](https://developer.mozilla.org/de/docs/Web/JavaScript/Eine_Wiedereinfuehrung_in_JavaScript)
+
 ## Technical docs
 
 - [JavaScript Reference](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference)
 
-## Documentation in JavaScript code
+## Documentation in JavaScript code with JSDoc
 
 - [Documenting JavaScript with JSDoc](https://jsdoc.app/)
 

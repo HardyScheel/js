@@ -1,1 +1,0 @@
-console.log(multiply(3, 6));

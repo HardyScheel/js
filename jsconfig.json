@@ -7,5 +7,8 @@
     },
     "include": [
         "./*",
-    ]
+    ],
+    "exclude": [
+        "./myExpressApp/node_modules",
+    ],
 }
