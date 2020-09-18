@@ -3,12 +3,7 @@
         // Specifies which default library (lib.d.ts) to use.
         "target": "es6",
         // Specifies the module system, when generating module code.
-        "module": "commonjs",
+        "module": "commonjs"
     },
-    "include": [
-        "./*",
-    ],
-    "exclude": [
-        "./myExpressApp/node_modules",
-    ],
+    "exclude": ["/myExpressApp/node_modules"]
 }
