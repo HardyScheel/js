@@ -6,6 +6,5 @@
         "markdown",
         "latex",
         "plaintext"
-    ],
-    "javascript.implicitProjectConfig.checkJs": true
+    ]
 }

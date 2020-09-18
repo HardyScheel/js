@@ -29,7 +29,8 @@ jsconfig.json:
     "module": "commonjs",
     "target": "es6"
   },
-  "include": ["src/**/*"]
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "**/node_modules/*"]
 }
 ~~~
 
@@ -82,7 +83,7 @@ jsconfig.json:
   "compilerOptions": {
     "checkJs": true
   },
-  "include": ["./*"]
+  "exclude": ["node_modules", "**/node_modules/*"]
 }
 ~~~
 
@@ -93,6 +94,6 @@ tsconfig.json:
     "allowJs": true,
     "checkJs": true
   },
-  "include": ["./*"]
+  "exclude": ["node_modules", "**/node_modules/*", "**/*.spec.ts"]
 }
 ~~~

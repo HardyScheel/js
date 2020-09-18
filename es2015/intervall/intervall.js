@@ -1,3 +1,4 @@
+/** @type {number} */
 var i = 0;
 
 setInterval(() => {
