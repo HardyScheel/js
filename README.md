@@ -8,7 +8,7 @@ A library with examples and exercises in JavaScript.
 
 - [MDN web docs - Guide](https://developer.mozilla.org/de/docs/Web/JavaScript/Guide)
 
-- [Eine Wiedereinfuehrung in JavaScript](https://developer.mozilla.org/de/docs/Web/JavaScript/Eine_Wiedereinfuehrung_in_JavaScript)
+- [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
 ## Technical docs
 
