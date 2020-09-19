@@ -1,6 +1,7 @@
 // The switch statement can be used for multiple branches based on a number or string:
 // If you don't add a break statement, execution will "fall through" to the next level. Add a comment "fallthrough" for better debugging
 // Default case is optional.
+// Comparisons take place using the === operator:
 
 let actionCase = 'eat';
 
