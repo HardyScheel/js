@@ -1,4 +1,4 @@
-let easy = 'abc';
+let easy = 'abc'
 
 // @ts-ignore
-easy = 123; // no error
+easy = 123 // no error

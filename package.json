@@ -1,0 +1,25 @@
+{
+  "name": "js-learn-javascript",
+  "version": "0.0.1",
+  "description": "A library with examples and excercises in JavaScript.",
+  "scripts": {
+    "test": "standard && node my-tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HardyScheel/js-learn-JavaScript.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Hardy Scheel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HardyScheel/js-learn-JavaScript/issues"
+  },
+  "homepage": "https://github.com/HardyScheel/js-learn-JavaScript#readme",
+
+  "devDependencies": {
+    "standard": "*"
+  }
+}

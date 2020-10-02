@@ -1,12 +1,12 @@
 // undefinded is a data type. The value is of the type 'undefinded'. This value represents a not initialised value. A variable of type undefinded is a constant.
 
-let undef; // undefined
+let undef // undefined
 
-undef = 5;
+undef = 5
 
-undef = undefined;
+undef = undefined
 
-let amINotANumberToo = isNaN(undef); // true
+let amINotANumberToo = isNaN(undef) // true
 
-console.log(undef);
-console.log(amINotANumberToo);
+console.log(undef)
+console.log(amINotANumberToo)

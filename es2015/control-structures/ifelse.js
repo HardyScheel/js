@@ -1,27 +1,26 @@
-console.log(myIfElseLoop());
+console.log(myIfElseLoop())
 
-function myIfElseLoop() {
+function myIfElseLoop () {
 
-    let name = 'kittens';
+  let name = 'kittens'
 
-    if (name == 'puppies') {
-        name += ' woof';
-    } else if (name == 'kittens') {
-        name += ' meow';
-    } else {
-        name += '!';
-    }
-    
-    return name == 'kittens meow';
+  if (name === 'puppies') {
+    name += ' woof'
+  } else if (name === 'kittens') {
+    name += ' meow'
+  } else {
+    name += '!'
+  }
+
+  return name === 'kittens meow';
 }
 
-
-let ifElseTester = 2; // use: 0, 1 or 2
+let ifElseTester = 2 // use: 0, 1 or 2
 
 if (ifElseTester == true) {
-    console.log(true);
+  console.log(true)
 } else if (ifElseTester == false) {
-    console.log(false);
+  console.log(false)
 } else {
-    console.log('else');
+  console.log('else')
 }

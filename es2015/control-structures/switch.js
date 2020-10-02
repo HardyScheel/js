@@ -3,42 +3,41 @@
 // Default case is optional.
 // Comparisons take place using the === operator:
 
-let actionCase = 'eat';
+const actionCase = 'eat'
 
 switch (actionCase) {
-    case 'eat':
-        console.log('eating');
-        break;
-    case 'draw':
-        console.log('drawing');
-        break;
-    default:
-        console.log('i am doing nothing');
-        break;
+  case 'eat':
+    console.log('eating')
+    break
+  case 'draw':
+    console.log('drawing')
+    break
+  default:
+    console.log('i am doing nothing')
+    break
 }
 
 
-
-let numberCase = 1;
+const numberCase = 1
 
 switch (numberCase) {
-    case 1:                 // fallthrough
-        console.log(1);
-    case 2:
-        console.log(2);
-    default:
-        console.log('default');
+  // fallthrough
+  case 1:
+    console.log(1)
+  case 2:
+    console.log(2)
+  default:
+    console.log('default')
 }
 
 
-
-function yay() {console.log('yay');}
-function nothing() {console.log('nothing');}
+function yay () { console.log('yay') }
+function nothing () { console.log('nothing') }
 
 switch (1 + 3) {
-    case 2 + 2:
-        yay();
-        break;
-    default:
-        nothing();
+  case 2 + 2:
+    yay()
+    break
+  default:
+    nothing()
 }

@@ -1,7 +1,7 @@
 /** @type {number} */
-var i = 0;
+var i = 0
 
 setInterval(() => {
-    console.log('iteration ' + i)
-    i++;
+  console.log('iteration ' + i)
+  i++
 }, 1000)
