@@ -1,7 +1,6 @@
 console.log(myIfElseLoop())
 
 function myIfElseLoop () {
-
   let name = 'kittens'
 
   if (name === 'puppies') {
@@ -12,10 +11,10 @@ function myIfElseLoop () {
     name += '!'
   }
 
-  return name === 'kittens meow';
+  return name === 'kittens meow'
 }
 
-let ifElseTester = 2 // use: 0, 1 or 2
+const ifElseTester = 2 // use: 0, 1 or 2
 
 if (ifElseTester == true) {
   console.log(true)

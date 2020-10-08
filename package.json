@@ -18,8 +18,7 @@
     "url": "https://github.com/HardyScheel/js-learn-JavaScript/issues"
   },
   "homepage": "https://github.com/HardyScheel/js-learn-JavaScript#readme",
-
   "devDependencies": {
-    "standard": "*"
+    "standard": "^14.3.4"
   }
 }
