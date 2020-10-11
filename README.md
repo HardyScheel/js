@@ -6,7 +6,7 @@ A library with examples and exercises in JavaScript. There is many documentation
 
 ## Things I use
 
-* JavaScript ES6 / ES2015
+* JavaScript ES2015
 * [JavaScript Standard Style](https://standardjs.com/)
 * [Visual Studio Code](https://code.visualstudio.com)
 * Node.js 12 & npm

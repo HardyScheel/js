@@ -1,7 +1,7 @@
 {
     "compilerOptions": {
         // Specifies which default library (lib.d.ts) to use.
-        "target": "es6",
+        "target": "es2015",
         // Specifies the module system, when generating module code.
         "module": "commonjs",
         // Enable TypeScript type checking for JavaScript.

@@ -7,8 +7,8 @@
         "latex",
         "plaintext"
     ],
-    "eslint.enable": false,
-    "standard.enable": true,
-    "standard.autoFixOnSave": true,
+    // "eslint.enable": false,
+    // "standard.enable": true,
+    // "standard.autoFixOnSave": true,
     "javascript.implicitProjectConfig.checkJs": true
 }
